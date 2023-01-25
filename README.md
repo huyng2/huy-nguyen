@@ -1,2 +1,2 @@
-# huy-nguyen
-Week 1
+# Huy Nguyen
+Welcome to my profile page
